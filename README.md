@@ -1,1 +1,1 @@
-# docs.eichain.org
+# docs.akashichain.org
